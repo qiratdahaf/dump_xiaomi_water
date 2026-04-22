@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: SzM+QtE1WQwkiGwNY9iKtoij/hkpNPey/86sbVtDJXo=
+
+Name: apex_build_info.pb
+SHA-256-Digest: 7Ljpvyjpb3I1lFwsUP6xOKHDGBF86+G+LaM9vrPrENQ=
+
+Name: apex_manifest.pb
+SHA-256-Digest: jlpMhuaA4OlvyEjwW3biQi2hrAq5cCFnv+G0oPNFVLM=
+
+Name: apex_payload.img
+SHA-256-Digest: OFFIlbXnB/r8X7dFvQAHstPo8l8VnVW+43WBabXIdZw=
+
+Name: apex_pubkey
+SHA-256-Digest: uL+Kj6TbXZOA8A5mX7cEtWnlxTVFC4xaebJ2WrYjxgs=
+
+Name: assets/NOTICE.html.gz
+SHA-256-Digest: UrxSTt9jwojwEsLlQ9okflyMBY9Hxx6uHb+NWst6ky4=
+
+Name: resources.arsc
+SHA-256-Digest: H6PLKRKFNI7BszyF5zF9mJRncH9HkcTlMC8tMS0eGMg=
+
